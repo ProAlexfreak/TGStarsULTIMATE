@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+python-dotenv
+motor
+pymongo
+apscheduler
+aiohttp
+requests
+pytz
